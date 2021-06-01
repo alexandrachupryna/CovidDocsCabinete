@@ -3012,7 +3012,8 @@ header {
           height: 76px;
           -webkit-transition: .3s;
           -o-transition: .3s;
-          transition: .3s; }
+          transition: .3s; 
+          object-fit: contain;}
           header .logo-wrap .logo a img.logo-scroll {
             display: none; }
           header .logo-wrap .logo a img.logo-second.logo-active {

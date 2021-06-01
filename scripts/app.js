@@ -458,6 +458,7 @@ showModalPopup("addDocument", "addDocumentBtn")
 showModalPopup("addPassport", "addPassportBtn")
 showModalPopup("sendPayment", "sendPaymentBtn")
 showModalPopup("editProfile", "editProfileBtn")
+showModalPopup("blockedAccount", "blockedAccountBtn")
 
 function initSidebar() {
   $('.sidebar-item').on('click', function(e) {
